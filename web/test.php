@@ -1,4 +1,5 @@
-<html>
+<!doctype html>
+  <html lang="en">
 <head>
 <title>Test Page</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,4 +8,3 @@
 <body>
     Hello World!
 </body>
-</html>
