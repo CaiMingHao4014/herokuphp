@@ -1,12 +1,11 @@
-<!doctype html>
-  <html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>Test Page</title>
+  <title>Test</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Description of the webpage">
+  <meta name="description" content="Put your description here.">
 </head>
-
 <body>
-    Hello World!
+  Hello World
 </body>
 </html>
